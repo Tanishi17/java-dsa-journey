@@ -6,6 +6,7 @@ My DSA learning journey in Java
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tanishi17/java-dsa-journey/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanishi17/java-dsa-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Tanishi17/java-dsa-journey/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
@@ -15,6 +16,7 @@ My DSA learning journey in Java
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tanishi17/java-dsa-journey/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Tanishi17/java-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanishi17/java-dsa-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
@@ -25,4 +27,8 @@ My DSA learning journey in Java
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanishi17/java-dsa-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Tanishi17/java-dsa-journey/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
