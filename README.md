@@ -6,6 +6,7 @@ My DSA learning journey in Java
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tanishi17/java-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tanishi17/java-dsa-journey/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanishi17/java-dsa-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Tanishi17/java-dsa-journey/tree/master/0238-product-of-array-except-self) |
@@ -16,6 +17,7 @@ My DSA learning journey in Java
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tanishi17/java-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tanishi17/java-dsa-journey/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Tanishi17/java-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanishi17/java-dsa-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -31,4 +33,8 @@ My DSA learning journey in Java
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Tanishi17/java-dsa-journey/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Tanishi17/java-dsa-journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
