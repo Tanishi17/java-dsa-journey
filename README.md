@@ -9,6 +9,7 @@ My DSA learning journey in Java
 | [0011-container-with-most-water](https://github.com/Tanishi17/java-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tanishi17/java-dsa-journey/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Tanishi17/java-dsa-journey/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanishi17/java-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanishi17/java-dsa-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Tanishi17/java-dsa-journey/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
@@ -43,6 +44,7 @@ My DSA learning journey in Java
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanishi17/java-dsa-journey/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanishi17/java-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
