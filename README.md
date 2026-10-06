@@ -29,6 +29,7 @@ My DSA learning journey in Java
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanishi17/java-dsa-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Tanishi17/java-dsa-journey/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Tanishi17/java-dsa-journey/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,8 +59,10 @@ My DSA learning journey in Java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanishi17/java-dsa-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Tanishi17/java-dsa-journey/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanishi17/java-dsa-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Tanishi17/java-dsa-journey/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
