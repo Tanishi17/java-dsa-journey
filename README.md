@@ -33,6 +33,7 @@ My DSA learning journey in Java
 | [0125-valid-palindrome](https://github.com/Tanishi17/java-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanishi17/java-dsa-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Tanishi17/java-dsa-journey/tree/master/0567-permutation-in-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tanishi17/java-dsa-journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ My DSA learning journey in Java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tanishi17/java-dsa-journey/tree/master/0011-container-with-most-water) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tanishi17/java-dsa-journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +56,7 @@ My DSA learning journey in Java
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanishi17/java-dsa-journey/tree/master/0042-trapping-rain-water) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tanishi17/java-dsa-journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -72,4 +75,8 @@ My DSA learning journey in Java
 | [0076-minimum-window-substring](https://github.com/Tanishi17/java-dsa-journey/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanishi17/java-dsa-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Tanishi17/java-dsa-journey/tree/master/0567-permutation-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tanishi17/java-dsa-journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
