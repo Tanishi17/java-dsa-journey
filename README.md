@@ -14,6 +14,7 @@ My DSA learning journey in Java
 | [0238-product-of-array-except-self](https://github.com/Tanishi17/java-dsa-journey/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Tanishi17/java-dsa-journey/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishi17/java-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Tanishi17/java-dsa-journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanishi17/java-dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -21,6 +22,7 @@ My DSA learning journey in Java
 | [0238-product-of-array-except-self](https://github.com/Tanishi17/java-dsa-journey/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Tanishi17/java-dsa-journey/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishi17/java-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Tanishi17/java-dsa-journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanishi17/java-dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
