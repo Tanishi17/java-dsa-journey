@@ -12,10 +12,12 @@ My DSA learning journey in Java
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanishi17/java-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanishi17/java-dsa-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Tanishi17/java-dsa-journey/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/Tanishi17/java-dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tanishi17/java-dsa-journey/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/Tanishi17/java-dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
