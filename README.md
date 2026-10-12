@@ -9,6 +9,7 @@ My DSA learning journey in Java
 | [0011-container-with-most-water](https://github.com/Tanishi17/java-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tanishi17/java-dsa-journey/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Tanishi17/java-dsa-journey/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/Tanishi17/java-dsa-journey/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanishi17/java-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanishi17/java-dsa-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Tanishi17/java-dsa-journey/tree/master/0238-product-of-array-except-self) |
@@ -45,6 +46,7 @@ My DSA learning journey in Java
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Tanishi17/java-dsa-journey/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanishi17/java-dsa-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -92,4 +94,8 @@ My DSA learning journey in Java
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Tanishi17/java-dsa-journey/tree/master/0303-range-sum-query-immutable) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Tanishi17/java-dsa-journey/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
