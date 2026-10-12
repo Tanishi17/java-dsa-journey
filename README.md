@@ -98,4 +98,12 @@ My DSA learning journey in Java
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Tanishi17/java-dsa-journey/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Tanishi17/java-dsa-journey/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Tanishi17/java-dsa-journey/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
