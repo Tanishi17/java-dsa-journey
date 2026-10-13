@@ -33,6 +33,7 @@ My DSA learning journey in Java
 | [0042-trapping-rain-water](https://github.com/Tanishi17/java-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Tanishi17/java-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Tanishi17/java-dsa-journey/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Tanishi17/java-dsa-journey/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanishi17/java-dsa-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Tanishi17/java-dsa-journey/tree/master/0567-permutation-in-string) |
 ## String
@@ -67,6 +68,7 @@ My DSA learning journey in Java
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanishi17/java-dsa-journey/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/Tanishi17/java-dsa-journey/tree/master/0143-reorder-list) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tanishi17/java-dsa-journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
@@ -105,11 +107,13 @@ My DSA learning journey in Java
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tanishi17/java-dsa-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Tanishi17/java-dsa-journey/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Tanishi17/java-dsa-journey/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Tanishi17/java-dsa-journey/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tanishi17/java-dsa-journey/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Tanishi17/java-dsa-journey/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Tanishi17/java-dsa-journey/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
