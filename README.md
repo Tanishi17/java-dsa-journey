@@ -32,6 +32,7 @@ My DSA learning journey in Java
 | [0015-3sum](https://github.com/Tanishi17/java-dsa-journey/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Tanishi17/java-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Tanishi17/java-dsa-journey/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Tanishi17/java-dsa-journey/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanishi17/java-dsa-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Tanishi17/java-dsa-journey/tree/master/0567-permutation-in-string) |
 ## String
@@ -76,6 +77,7 @@ My DSA learning journey in Java
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanishi17/java-dsa-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Tanishi17/java-dsa-journey/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/Tanishi17/java-dsa-journey/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanishi17/java-dsa-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishi17/java-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Tanishi17/java-dsa-journey/tree/master/0567-permutation-in-string) |
@@ -102,10 +104,15 @@ My DSA learning journey in Java
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tanishi17/java-dsa-journey/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Tanishi17/java-dsa-journey/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Tanishi17/java-dsa-journey/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tanishi17/java-dsa-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Tanishi17/java-dsa-journey/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Tanishi17/java-dsa-journey/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
