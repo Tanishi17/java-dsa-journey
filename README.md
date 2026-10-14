@@ -59,6 +59,7 @@ My DSA learning journey in Java
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tanishi17/java-dsa-journey/tree/master/0011-container-with-most-water) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tanishi17/java-dsa-journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Tanishi17/java-dsa-journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,4 +120,8 @@ My DSA learning journey in Java
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Tanishi17/java-dsa-journey/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Tanishi17/java-dsa-journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
