@@ -17,6 +17,7 @@ My DSA learning journey in Java
 | [0560-subarray-sum-equals-k](https://github.com/Tanishi17/java-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Tanishi17/java-dsa-journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanishi17/java-dsa-journey/tree/master/1480-running-sum-of-1d-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tanishi17/java-dsa-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -84,6 +85,7 @@ My DSA learning journey in Java
 | [0424-longest-repeating-character-replacement](https://github.com/Tanishi17/java-dsa-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishi17/java-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Tanishi17/java-dsa-journey/tree/master/0567-permutation-in-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tanishi17/java-dsa-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -124,4 +126,12 @@ My DSA learning journey in Java
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Tanishi17/java-dsa-journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tanishi17/java-dsa-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tanishi17/java-dsa-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
