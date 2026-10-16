@@ -36,6 +36,7 @@ My DSA learning journey in Java
 | [0141-linked-list-cycle](https://github.com/Tanishi17/java-dsa-journey/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Tanishi17/java-dsa-journey/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanishi17/java-dsa-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Tanishi17/java-dsa-journey/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/Tanishi17/java-dsa-journey/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -82,6 +83,7 @@ My DSA learning journey in Java
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanishi17/java-dsa-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Tanishi17/java-dsa-journey/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Tanishi17/java-dsa-journey/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Tanishi17/java-dsa-journey/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanishi17/java-dsa-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishi17/java-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Tanishi17/java-dsa-journey/tree/master/0567-permutation-in-string) |
@@ -122,9 +124,11 @@ My DSA learning journey in Java
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Tanishi17/java-dsa-journey/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Tanishi17/java-dsa-journey/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Tanishi17/java-dsa-journey/tree/master/0202-happy-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Tanishi17/java-dsa-journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
 |  |
