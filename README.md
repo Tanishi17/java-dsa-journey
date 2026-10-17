@@ -18,6 +18,7 @@ My DSA learning journey in Java
 | [0724-find-pivot-index](https://github.com/Tanishi17/java-dsa-journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanishi17/java-dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tanishi17/java-dsa-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tanishi17/java-dsa-journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -56,6 +57,7 @@ My DSA learning journey in Java
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Tanishi17/java-dsa-journey/tree/master/0015-3sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tanishi17/java-dsa-journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +90,7 @@ My DSA learning journey in Java
 | [0560-subarray-sum-equals-k](https://github.com/Tanishi17/java-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Tanishi17/java-dsa-journey/tree/master/0567-permutation-in-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tanishi17/java-dsa-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tanishi17/java-dsa-journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
 |  |
 | ------- |
